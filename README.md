@@ -1,7 +1,7 @@
-# AI_Assistant_Pro
+# Career AI Agent
 
-# 🤖 AI Assistant Pro – Your Personal Chatbot Assistant
-AI Assistant Pro is an intelligent, voice-enabled  powered by mistralai/Mistral-7B-Instruct-v0.1, wrapped in a sleek, modern Gradio UI. Designed to act like your personal assistant, it can understand natural language, respond with voice or text, analyze your resume, and recommend tailored jobs using the JSearch API.
+# 🤖 Career AI Agent – Your Personal Chatbot Assistant
+Career AI Agent is an intelligent, voice-enabled  powered by mistralai/Mistral-7B-Instruct-v0.1, wrapped in a sleek, modern Gradio UI. Designed to act like your personal assistant, it can understand natural language, respond with voice or text, analyze your resume, and recommend tailored jobs using the JSearch API.
 
 Built for public use via Hugging Face Spaces, this assistant offers a human-like chat experience, automating everyday tasks and delivering real-time job search results — all from a single interface.
 An all-in-one AI Assistant chatbot built with 💬 Gradio, powered by 🔥 OpenAI, 🎤 voice input/output, 📄 resume parsing, and intelligent 🎯 job search integration via JSearch API.
