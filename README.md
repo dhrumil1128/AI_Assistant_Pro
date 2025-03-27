@@ -1,7 +1,9 @@
 # AI_Assistant_Pro
 
 # 🤖 AI Assistant Pro – Your Personal Chatbot Assistant
+AI Assistant Pro is an intelligent, voice-enabled  powered by mistralai/Mistral-7B-Instruct-v0.1, wrapped in a sleek, modern Gradio UI. Designed to act like your personal assistant, it can understand natural language, respond with voice or text, analyze your resume, and recommend tailored jobs using the JSearch API.
 
+Built for public use via Hugging Face Spaces, this assistant offers a human-like chat experience, automating everyday tasks and delivering real-time job search results — all from a single interface.
 An all-in-one AI Assistant chatbot built with 💬 Gradio, powered by 🔥 OpenAI, 🎤 voice input/output, 📄 resume parsing, and intelligent 🎯 job search integration via JSearch API.
 
 ---
@@ -29,7 +31,6 @@ Try it live on [Hugging Face Spaces]([https://huggingface.co/spaces/](https://hu
 
 - Python 3.10+
 - Gradio 4.x
-- OpenAI (for chat completion)
 - gTTS / pyttsx3 / SpeechRecognition (Voice)
 - pdfplumber, python-docx (Resume parsing)
 - JSearch API (Job search)
@@ -37,6 +38,10 @@ Try it live on [Hugging Face Spaces]([https://huggingface.co/spaces/](https://hu
 
 ---
 
+## Connect with Me  
+If you found this project useful, feel free to **connect with me on LinkedIn** and check out my other projects! 
+
+[LinkedIn Profile](https://www.linkedin.com/in/dhrumil-pawar/) 
 ## 🔧 Installation
 
 1. **Clone the repository**
